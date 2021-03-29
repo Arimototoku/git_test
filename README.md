@@ -1,0 +1,1 @@
+This is Arimototoku’s first git project!
